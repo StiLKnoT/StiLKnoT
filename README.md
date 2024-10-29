@@ -1,4 +1,3 @@
-Hi i'am JS DEVELOPER, stack (REACT JS(ES6), REACT REDUX)  
+Hi i'am Nurlan
 
-Portfolio: https://nurlan.netlify.app/
 
